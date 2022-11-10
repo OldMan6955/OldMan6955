@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Albino-Zebra
 - 👀 I’m interested in ... Scifi and Cyberpunk 
-- 🌱 I’m currently learning ... Blender and CiKad
+- 🌱 I’m currently learning ... Blender and Kicad
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
