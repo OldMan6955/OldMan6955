@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Albino-Zebra
-- 👀 I’m interested in ... Scifi and Cyberpunk 
+- 👀 I’m interested in ... YES 
 - 🌱 I’m currently learning ... Blender and Kicad
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... love and peace for everyone
+- 📫 How to reach me ... I'll reach out to you
 
 <!---
 Albino-Zebra/Albino-Zebra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
